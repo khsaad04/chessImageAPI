@@ -1,0 +1,3 @@
+fentoboardimage
+fastapi
+uvicorn
