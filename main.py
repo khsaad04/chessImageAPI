@@ -6,6 +6,7 @@ board = fenToImage(
     pieceSet=loadPiecesFolder("pieces"),
     darkColor="#79a65d",
     lightColor="#daf2cb",
+    flipped=True
 )
 
-board.show()
+board.save("board.png")
